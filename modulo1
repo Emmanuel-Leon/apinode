@@ -1,0 +1,9 @@
+const axios = require("axios");
+export default {
+
+const params={
+name:"Emm", Age:"30",
+}
+getData:()=>
+axios({method: "GET", url:"http://localhost:3000/pageone", {params}}),
+};
