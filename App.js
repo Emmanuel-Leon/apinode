@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn to cook crack!!!
+          El metodo de la reduccion-oxidacion consiste en...
         </a>
 	<Component/>
       </header>
