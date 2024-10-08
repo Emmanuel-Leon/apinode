@@ -15,7 +15,6 @@ export default function Component (){
   
 };
  
- 
 	return (
 		<div>
 			<input type="text" />		
